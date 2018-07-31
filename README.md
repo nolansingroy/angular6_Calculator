@@ -1,4 +1,4 @@
-# Calc
+# Calculator Program using Angular 6
 
 # purpose
 simple calculator program to Add Subtract and Multiple 
@@ -19,3 +19,5 @@ ToDO
 1.CSS mockup
 2. angular material design 
 3. more embedded functions
+4. export data sheets 
+
