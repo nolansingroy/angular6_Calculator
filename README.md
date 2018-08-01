@@ -14,5 +14,7 @@ the correct output
 
 # Issue
 GHPages post using angular6 -- please read angular6 github comments 
+ToDO
+1.CSS mockup
+2. more functions
 
-TBD
