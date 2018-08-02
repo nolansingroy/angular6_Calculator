@@ -4,6 +4,7 @@
 simple calculator program to Add Subtract and Multiple 
 
 # Description
+ 
 Uses the Angular6 Typescipt 
 with Imported forms and browser module 
 
@@ -16,5 +17,5 @@ the correct output
 GHPages post using angular6 -- please read angular6 github comments 
 ToDO
 1.CSS mockup
-2. more functions
-
+2. angular material design 
+3. more embedded functions
