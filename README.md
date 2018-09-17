@@ -4,4 +4,5 @@
 simple calculator program to Add Subtract and Multiple 
 
 # Description
-Uses the Angular6 Typscript 
+Uses the Angular6 Typescipt 
+with Imported forms and browser module 
