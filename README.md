@@ -9,5 +9,8 @@ with Imported forms and browser module
 
 # Usage
 
-simly enter integers into theinput box and click calculate to receive 
+simlpy enter integers into theinput box and click calculate to receive 
 the correct output
+
+# Issue
+GHPages post using angular6 -- please read angular6 github comments 
